@@ -1,0 +1,6 @@
+Nautilus-Share-Message: 11:20:13.465: Called "net usershare info" but it failed: “net usershare”返回错误 255：net usershare: cannot open usershare directory /var/lib/samba/usershares. Error 没有那个文件或目录
+Please ask your system administrator to enable user sharing.
+
+Nautilus-Share-Message: 11:46:46.023: Called "net usershare info" but it failed: “net usershare”返回错误 255：net usershare: cannot open usershare directory /var/lib/samba/usershares. Error 没有那个文件或目录
+Please ask your system administrator to enable user sharing.
+

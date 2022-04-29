@@ -1,0 +1,44 @@
+wine: Unhandled page fault on read access to FFFFFFFFFFFFFFFF at address 00000000007780C4 (thread 0024), starting debugger...
+000f:err:service:process_send_command service protocol error - failed to read pipe r = 0  count = 0!
+002e:err:svchost:LoadGroup cannot open key L"Software\\Microsoft\\Windows NT\\CurrentVersion\\Svchost", err=2
+002e:err:svchost:wmain Failed to load requested group: L"netsvcs"
+000f:err:service:process_send_command service protocol error - failed to write pipe!
+0032:err:module:import_dll Library fwpkclnt.sys (which is needed by L"C:\\windows\\system32\\drivers\\xlwfp.sys") not found
+0032:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\XLWFP": c0000142
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+[1228/130754:INFO:exception_record.cc(518)] [QB]Process ID: 8 Type: 1
+[1228/130754:ERROR:network_change_notifier_win.cc(156)] WSALookupServiceBegin failed with: 8
+wine: could not open working directory L"unix\\home\\lemcoden\\blog_picture\\machine_learning\\", starting in the Windows directory.
+[1228/130813.280:ERROR:gl_surface_egl.cc(770)] ANGLE Platform initialization failed.
+[218:241:1228/130814:ERROR:network_change_notifier_win.cc(156)] WSALookupServiceBegin failed with: 122
+[218:241:1228/130814:ERROR:xwalk_net_log.cc(65)] Could not open file f:\xw_log\xw_net_log.txt for net logging
+[218:241:1228/130814:ERROR:xwalk_platform_notification_service.cc(143)] NOT IMPLEMENTED
+[218:241:1228/130814:ERROR:xwalk_browser_context.cc(88)] Failed to read preference, error num: 0
+wine: could not open working directory L"unix\\home\\lemcoden\\blog_picture\\machine_learning\\", starting in the Windows directory.
+[1228/130859:INFO:exception_record.cc(518)] [QB]Process ID: 306 Type: 2
+[1228/130859:WARNING:cert_verify_proc_win.cc(108)] Unknown error -2146762482 mapped to net::ERR_FAILED
+[1228/130902:WARNING:cert_verify_proc_win.cc(108)] Unknown error -2146762482 mapped to net::ERR_FAILED
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+002a:err:clipboard:convert_selection Timed out waiting for SelectionNotify event
+002a:err:clipboard:convert_selection Timed out waiting for SelectionNotify event
